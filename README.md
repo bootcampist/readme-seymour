@@ -12,8 +12,9 @@
  
 
 ## Description
- The README Generator uses Node.js – specifically the Inquirer and FS modules – to generate a README file based on the user’s input. The generator is customisable, allowing the user to select which sections to include or omit. 
- [Walkthrough](./walkthrough.webm);
+ The README Generator uses Node.js – specifically the Inquirer and FS modules – to generate a README file based on the user’s input. The generator is customisable, allowing the user to select which sections to include or omit.
+ [Walkthrough-Link][https://drive.google.com/file/d/1yT1u96mlSsL3d8JWYoM_WHgNHKGWn8_p/view] 
+ [Walkthrough-File](./walkthrough.webm)
 
 ## Installation
  N/A
